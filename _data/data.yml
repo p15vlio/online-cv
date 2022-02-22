@@ -62,8 +62,12 @@ experiences:
       time: 2021 - Present
       company: Cosmote, Larissa
       details: |
-          - Bullet point
-          - Bullet point
+        Working as a representative for technical support, helping customers with their internet & telecommunications issues.
+          - Customer ticket management.
+          - Wifi/Internet/Voip configuration.
+          - Line port monitoring.
+          - Help for equipment assemply.
+          - "Have you tried turning it off and on again?".
     - role: Cashier & Technical Support
       time: 2017 - 2019
       company: Bits and Bytes, Corfu
@@ -73,15 +77,13 @@ experiences:
           - Comuter maintenance.
           - Troubleshooting (Software/Hardware).
 projects:
-    title: Projects
+    title: Projects in University
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Videogame
+        tagline: "A maze 3rd person shooter."
+      - title: E-shop
+        tagline: "A Musical Instruments online shop."
 
 skills:
     title: Skills &amp; Proficiency
