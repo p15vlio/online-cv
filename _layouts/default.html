@@ -6,6 +6,10 @@
 <!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->
 <!--[if !IE]><!--> <html lang="en"> <!--<![endif]-->
 {% include head.html %}
+
+<body>
+  <div class="wrapper">
+    {% include sidebar.html %}
 <div class="banner">
     <webring-banner>
       <p>Μέλος του webring της ομάδας <a href="https://cont1nental.netlify.app/%22%3ECont1nental</a> webring</p>
@@ -15,10 +19,6 @@
     </webring-banner>
     <script async src="https://cont1nental.netlify.app/embed.js" charset="utf-8"></script>
   </div>
-<body>
-  <div class="wrapper">
-    {% include sidebar.html %}
-
     <div class="main-wrapper">
         {{ content }}
     </div>
